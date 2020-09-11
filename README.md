@@ -7,3 +7,5 @@ Replace enter roll with roll id, enter reaction with reaction id, enter user wit
 Assigns rolls to memeber on server by reacting to the bots message.
 
 -addranks add the message to the channel.
+
+Discord bot token required in a dotenv file.
